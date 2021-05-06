@@ -2,7 +2,7 @@
 
 ## Instructions
 
-> Clone this git repo to your local workspace and follow the below
+> Clone this git repo to your local workspace and follow the below\
 > Note: Steps 1, 3 should be inside the Dockerfile
 
 1. Create a new branch (Git). branch name should be your `first name`
